@@ -7,7 +7,7 @@ public class Program {
 
         System.out.printf("%d\n", character1.getCurrentHealth());
 
-        character1.receiveHealing(-91);
+        character1.receiveHealing(91);
 
         System.out.printf("%d\n", character1.getCurrentHealth());
 
